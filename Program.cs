@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
-using Patrascu_Andreea_Larisa_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Patrascu_Andreea_Larisa_Lab2
 {
